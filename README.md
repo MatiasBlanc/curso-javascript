@@ -225,3 +225,81 @@ alert('Hola, yo soy una alerta');
 </div>
 
 ## Operadores matematicos y aritmeticos
+### Adicion
+---
+`+` es el operador de adicion, es decir, suma. 
+
+```
+    let a = 10;
+    let b = 5;
+
+    console.log(a + b); // 15
+```
+### Sustraccion
+---
+`-` es el operador de sustraccion, es decir, resta. 
+
+```
+    let a = 10;
+    let b = 5;
+
+    console.log(a - b); // 5
+```
+### Division
+---
+`/` Para dividir numeros.
+
+```
+    let a = 10;
+    let b = 5;
+
+    console.log(a / b); // 2
+```
+### Residuo
+---
+`%` es el residuo/resto de una division
+
+```
+    let a = 10;
+    let b = 5;
+
+    console.log(a / b); // 2
+```
+### Multiplicacion
+---
+`*` Operador de multiplicacion.
+
+```
+    let a = 10;
+    let b = 5;
+
+    console.log(a * b); // 50
+```
+### Exponenciación
+---
+`**` es el operador de exponenciacion.
+
+```
+    let a = 10;
+    let b = 2;
+
+    console.log(a ** b); // 100
+```
+### Incremento
+---
+`++` incrementa +1 el valor.
+
+```
+    let a = 10;
+
+    console.log(++a); // 11
+```
+### Decremento
+---
+`++` decrementa -1 el valor.
+
+```
+    let a = 10;
+
+    console.log(--a); // 9
+```
