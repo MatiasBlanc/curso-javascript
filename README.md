@@ -303,3 +303,27 @@ alert('Hola, yo soy una alerta');
 
     console.log(--a); // 9
 ```
+
+## Operadores logicos
+---
+Los operadores logicos son los que nos permiten comparar datos, y nos permiten decidir si una condicion se cumple o no.
+
+### || (or)
+---
+El operador `||` es el `or`, entonces si quiero tener 2 condiciones, y una de ellas se cumple, entonces la otra no es necesaria.
+```
+si 5 || 10 es igual a 10 entonces dame true, si el valor fuera 5 igual da true
+     ^^
+     o
+```
+
+### && (and)
+---
+el operador `&&` es el `and`, entonces si tengo 2 condiciones... las 2 deben cumplir para que salga true
+
+si "hola" && "hola" son igual a "hola", entonces dame true si no da false
+
+## Operadores de comparacion
+---
+
+### 
